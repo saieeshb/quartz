@@ -5,8 +5,7 @@ title: DNA
 # DNA
 ## Types of DNA:
 ### Double Stranded DNA
-
-![[Pasted image 20221010175758.png]]
+![[content/Images/Pasted image 20221010175758.png]]
 + In  the deoxyribose sugar, 
 	+ 1' carbon is connected to the Nitrogen Base
 	+ 2' is not connected to a hydroxyl moiety

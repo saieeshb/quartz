@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Genetic/DNA.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Genetic/DNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Genetic/DNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/Genetic/DNA.md"
               }
             }
           },
@@ -171,15 +171,15 @@
   },
   "active": "c3604da63b82fbc7",
   "lastOpenFiles": [
+    "content/notes/obsidian.md",
+    "content/notes/config.md",
+    "content/notes/CJK + Latex Support (测试).md",
+    "content/notes/callouts.md",
     "content/Genetic/DNA.md",
+    "content/Images/Pasted image 20221010175758.png",
+    "content/Images/Pasted image 20221009163901.png",
+    "static/icon.png",
     "content/_index.md",
-    "Untitled.md",
-    "content/templates/post.md",
-    "content/private/private-note.md",
-    "Genetic/DNA.md",
-    "Genetic/Pyrimidines.md",
-    "Genetic/DNA vs RNA.md",
-    "Genetic/Beginnings.md",
-    "Genetic/Bases.md"
+    "Untitled.md"
   ]
 }
