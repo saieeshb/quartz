@@ -17,9 +17,14 @@ operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
   My Notes.
 page_title:
-  "🧠 Saieesh's Second Brain"
+  "Saieesh's Second Brain"
 links:
   - link_name: Twitter
     link: https://twitter.com/saieeesh
   - link_name: Github
     link: https://github.com/saieeshb
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
