@@ -12,20 +12,20 @@ They are classified as [[content/gene/Purines]] and [[content/gene/Pyrimidines]]
 + Purines have a bigger structure, 2 rings but a smaller name. 
 + Pyrimidines have a smaller structure, 1 ring, but a longer name.
 ---
-![[content/Images/purines_pyrimidines.png]]
+![[Images/purines_pyrimidines.png]]
 
 ---
 ### DNA = A,G,C,T
 ### RNA = A,G,C,U
 ---
 
-# [[content/gene/Nucleoside]] and [[content/gene/Nucleotide]]s
+# [[gene/Nucleoside]] and [[gene/Nucleotide]]s
 
 | Nucleosides  | Nucleotides              |
 | ------------ | ------------------------ |
 | Base + Sugar | Base + Sugar + Phosphate |
 |              |                          |
 
-[[content/gene/ATP]] is a type of nucleotide.
+[[gene/ATP]] is a type of nucleotide.
 
-[[content/gene/DNA vs RNA]] 
+[[gene/DNA vs RNA]] 

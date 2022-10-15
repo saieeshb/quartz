@@ -5,7 +5,7 @@ title: DNA
 # DNA
 ## Types of DNA:
 ### Double Stranded DNA
-![[content/Images/dnastructure.png]]
+![[/Images/dnastructure.png]]
 + In  the deoxyribose sugar, 
 	+ 1' carbon is connected to the Nitrogen Base
 	+ 2' is not connected to a hydroxyl moiety
@@ -27,7 +27,7 @@ title: DNA
 ---
 ### Convention to read
  + We read DNA from 5' to 3' 
- + For example, in [this](obsidian://open?vault=Biochem&file=Pasted%20image%2020221010175758.png) image, we would read it as 5'-GTCA-3'
+ + For example, in the above image, we would read it as 5'-GTCA-3'
  + It could be also read as 5'-GpTpCpAp-3' where the P's stand for the phosphates in between the sugars.
  + If you wanted to read it from 3' to 5' you would read it as 3'-ACTG-5'
  + All three mentioned above represent the same DNA.
@@ -56,7 +56,7 @@ A shortcut to problems like this is to multiply the given %, subtract it from 10
 
 # DNA and it double-helix structure
 + Most DNA in our body is **B-DNA** which means it is **Right-handed DNA**.
-+ ![[content/Images/minor_groove01.jpg]]
++ ![[Images/minor_groove01.jpg]]
 + It has two grooves named Major Groove and Minor Groove
 + **10 bases** make up one complete turn which measures **34 A**
 + There are enzymes that can change how many bases make up a turn, i.e. relax or compress the DNA.
