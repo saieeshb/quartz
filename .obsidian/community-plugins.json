@@ -18,5 +18,6 @@
   "templater-obsidian",
   "notion-like-tables",
   "obsidian-minimal-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-pandoc"
 ]

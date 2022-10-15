@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "20806c4266452178",
+        "id": "47c39049dbdd44e1",
         "type": "tabs",
         "children": [
           {
-            "id": "4a3f037bcc861cf7",
+            "id": "b2ea2c2aa29eb1ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Genetic/DNA.md",
+                "file": "content/Genetic/test doc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Genetic/DNA.md",
+                "file": "content/Genetic/test doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Genetic/DNA.md",
+                "file": "content/Genetic/test doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Genetic/DNA.md"
+                "file": "content/Genetic/test doc.md"
               }
             }
           },
@@ -156,17 +156,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4a3f037bcc861cf7",
+  "active": "b2ea2c2aa29eb1ed",
   "lastOpenFiles": [
+    "content/Genetic/test doc.md",
+    "notes/images/obsidian-settings.png.md",
+    "content/notes/obsidian.md",
+    "content/Genetic/DNA.md",
+    "content/Genetic/ATP.md",
+    "content/_index.md",
     "screenshot.png",
     "Untitled 1.md",
     "Untitled.md",
-    "content/templates/post.md",
-    "content/Genetic/DNA.md",
-    "content/notes/obsidian.md",
-    "content/notes/config.md",
-    "content/notes/CJK + Latex Support (测试).md",
-    "content/notes/callouts.md",
-    "content/Images/Pasted image 20221010175758.png"
+    "content/templates/post.md"
   ]
 }

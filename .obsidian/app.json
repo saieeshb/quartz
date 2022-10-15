@@ -7,8 +7,16 @@
   "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "content/Genetic"
+  "newFileFolderPath": "content/Genetic",
+  "showUnsupportedFiles": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
