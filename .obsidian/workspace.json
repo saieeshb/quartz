@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "4724cc64f28b488c",
+    "type": "split",
+    "children": [
+      {
+        "id": "20806c4266452178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a3f037bcc861cf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Genetic/DNA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc237682bfe2c573",
+    "type": "split",
+    "children": [
+      {
+        "id": "77628820cc32315e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "425785b4a2db6c99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e319cb3837f2a505",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3facd657398cc426",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "8f19663ce06c115a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf10ad4836fbffe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb5fc6fcd943b0c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/Genetic/DNA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4248ee792a42864f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/Genetic/DNA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75d537dbacfd29dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "413a65e2e454f086",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9865bd812f355a50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/Genetic/DNA.md"
+              }
+            }
+          },
+          {
+            "id": "e9f474b46163de14",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 1112.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "4a3f037bcc861cf7",
+  "lastOpenFiles": [
+    "Genetic/DNA.md",
+    "Genetic/Pyrimidines.md",
+    "Genetic/DNA vs RNA.md",
+    "Genetic/Beginnings.md",
+    "Genetic/Bases.md",
+    "Genetic/ATP.md",
+    "Recording 20221014151943.webm.md",
+    "Recording 20221014151943.webm",
+    "Genetic/Nucleoside.md",
+    "Genetic/Nucleotide.md"
+  ]
+}
