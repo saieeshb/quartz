@@ -7,4 +7,5 @@
 
 Purine + Sugar = Purine(-nosine)
 Pyrimidine + Sugar = Pyrimidine(-idine)
-![[Pasted image 20221010173534.png]]
+
+![[content/Images/base_nomenclature.png]]

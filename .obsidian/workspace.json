@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/gene/test doc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/gene/test doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/gene/test doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/gene/test doc.md"
               }
             }
           },
@@ -158,15 +158,15 @@
   },
   "active": "b2ea2c2aa29eb1ed",
   "lastOpenFiles": [
-    "content/gene/test doc.md",
-    "DNA.pdf",
-    "notes/images/obsidian-settings.png.md",
-    "content/notes/obsidian.md",
+    "content/gene/Pyrimidines.md",
+    "content/gene/Purines.md",
+    "content/Images/minor_groove01.jpg",
+    "content/gene/Nucleotide.md",
+    "content/gene/Nucleoside.md",
+    "content/gene/DNA vs RNA.md",
+    "content/gene/Beginnings.md",
     "content/gene/DNA.md",
-    "content/gene/ATP.md",
-    "content/_index.md",
-    "screenshot.png",
-    "Untitled 1.md",
-    "Untitled.md"
+    "content/Images/deamination.png",
+    "content/Images/purines_pyrimidines.png"
   ]
 }

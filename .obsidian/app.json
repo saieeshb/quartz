@@ -10,7 +10,7 @@
   "useMarkdownLinks": false,
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "content/Genetic",
+  "newFileFolderPath": "content/gene",
   "showUnsupportedFiles": false,
   "pdfExportSettings": {
     "includeName": true,

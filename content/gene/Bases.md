@@ -12,7 +12,7 @@ They are classified as [[content/gene/Purines]] and [[content/gene/Pyrimidines]]
 + Purines have a bigger structure, 2 rings but a smaller name. 
 + Pyrimidines have a smaller structure, 1 ring, but a longer name.
 ---
-![[Pasted image 20221009162825.png]]
+![[content/Images/purines_pyrimidines.png]]
 
 ---
 ### DNA = A,G,C,T
