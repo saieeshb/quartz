@@ -4,3 +4,5 @@ enableToc: false
 ---
 
 >[!NOTE]  This is a work in progress.
+
+[[content/gene/test doc]]

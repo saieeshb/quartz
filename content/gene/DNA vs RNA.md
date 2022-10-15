@@ -1,5 +1,5 @@
 # DNA vs RNA
-| [[DNA]]         | RNA     |
+| [[content/gene/DNA]]         | RNA     |
 | ----------- | ------- |
 | Deoxyribose | Ribose  |
 | A,G,C,T     | A,G,C,U |

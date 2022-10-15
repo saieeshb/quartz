@@ -5,7 +5,7 @@ Don't spend your time memorizing structures of the bases altogether. Try to reme
 
 ```
 
-They are classified as [[Purines]] and [[Pyrimidines]].
+They are classified as [[content/gene/Purines]] and [[content/gene/Pyrimidines]].
 
 + Purines are Adenine and Guanine. (**Pu**re **a**s **G**old)
 + Pyrimidines are Cytosine, Uracil and Thymosine (**CUT**)
@@ -19,13 +19,13 @@ They are classified as [[Purines]] and [[Pyrimidines]].
 ### RNA = A,G,C,U
 ---
 
-# [[Nucleoside]] and [[Nucleotide]]s
+# [[content/gene/Nucleoside]] and [[content/gene/Nucleotide]]s
 
 | Nucleosides  | Nucleotides              |
 | ------------ | ------------------------ |
 | Base + Sugar | Base + Sugar + Phosphate |
 |              |                          |
 
-[[ATP]] is a type of nucleotide.
+[[content/gene/ATP]] is a type of nucleotide.
 
-[[DNA vs RNA]] 
+[[content/gene/DNA vs RNA]] 

@@ -14,11 +14,16 @@
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <!-- HTML Favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
+<!-- HTML Favicon -->
+{{ $favicon := $data.favicon  | default $.Site.Data.config.favicon | default (slice (dict "rel" "shortcut icon" "type" "image/png" "href" "icon.png")) }}
+{{ $type := (printf "%T" $favicon) }}
+{{ if eq $type "string" }}
+{{ $favicon | safeHTML }}
+{{ else }}
+{{ range $favicon }}
+<link rel="{{.rel}}" {{if .type}}type="{{.type}}"{{end}} {{if .sizes}}sizes="{{.sizes}}"{{end}} href="{{$.Site.BaseURL}}/{{.href}}" />
+{{- end }}
+{{ end }}
 
   <!-- CSS Stylesheets and Fonts -->
   {{$sass := resources.Match "styles/[!_]*.scss" }}

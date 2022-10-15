@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Genetic/test doc.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Genetic/test doc.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Genetic/test doc.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Genetic/test doc.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -158,12 +158,12 @@
   },
   "active": "b2ea2c2aa29eb1ed",
   "lastOpenFiles": [
+    "content/gene/test doc.md",
     "DNA.pdf",
-    "content/Genetic/test doc.md",
     "notes/images/obsidian-settings.png.md",
     "content/notes/obsidian.md",
-    "content/Genetic/DNA.md",
-    "content/Genetic/ATP.md",
+    "content/gene/DNA.md",
+    "content/gene/ATP.md",
     "content/_index.md",
     "screenshot.png",
     "Untitled 1.md",
