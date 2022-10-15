@@ -1,3 +1,8 @@
+
+---
+title: Purines
+---
+
 ## Purines
 + Adenine to Guanine is just a de-amination step.  
 + It goes from Amino to a Carbonyl Group

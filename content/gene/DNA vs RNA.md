@@ -1,3 +1,7 @@
+---
+title: DNA vs RNA
+---
+
 # DNA vs RNA
 | [[gene/DNA]]    | RNA     |
 | ----------- | ------- |
@@ -8,4 +12,4 @@
 Purine + Sugar = Purine(-nosine)
 Pyrimidine + Sugar = Pyrimidine(-idine)
 
-![[content/Images/base_nomenclature.png]]
+![[Images/base_nomenclature.png]]

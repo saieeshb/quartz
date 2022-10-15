@@ -1,3 +1,6 @@
+---
+title: Pyrimidines
+---
 ## Pyrimidines
 + Deamination step of cytosine turns it into Uracil.
 + Uracil + Methyl gives Thymine.

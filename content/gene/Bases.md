@@ -1,3 +1,6 @@
+---
+title: Bases
+---
 # Bases
 ---
 ```ad-tip
