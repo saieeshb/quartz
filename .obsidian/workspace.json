@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/templates/post.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3604da63b82fbc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "content/Genetic/DNA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,17 +156,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c3604da63b82fbc7",
+  "active": "4a3f037bcc861cf7",
   "lastOpenFiles": [
+    "screenshot.png",
+    "Untitled 1.md",
+    "Untitled.md",
+    "content/templates/post.md",
+    "content/Genetic/DNA.md",
     "content/notes/obsidian.md",
     "content/notes/config.md",
     "content/notes/CJK + Latex Support (测试).md",
     "content/notes/callouts.md",
-    "content/Genetic/DNA.md",
-    "content/Images/Pasted image 20221010175758.png",
-    "content/Images/Pasted image 20221009163901.png",
-    "static/icon.png",
-    "content/_index.md",
-    "Untitled.md"
+    "content/Images/Pasted image 20221010175758.png"
   ]
 }
