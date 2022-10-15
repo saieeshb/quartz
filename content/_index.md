@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.
+title: "🧠 Saieesh's Second Brain "
 enableToc: false
 ---
 

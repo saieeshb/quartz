@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Genetic/DNA.md",
+                "file": "content/templates/post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3604da63b82fbc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Genetic/DNA.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Genetic/DNA.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Genetic/DNA.md"
+                "file": "content/_index.md"
               }
             }
           },
@@ -156,17 +169,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4a3f037bcc861cf7",
+  "active": "c3604da63b82fbc7",
   "lastOpenFiles": [
+    "Untitled.md",
+    "content/templates/post.md",
+    "content/private/private-note.md",
+    "content/_index.md",
+    "content/Genetic/DNA.md",
     "Genetic/DNA.md",
     "Genetic/Pyrimidines.md",
     "Genetic/DNA vs RNA.md",
     "Genetic/Beginnings.md",
-    "Genetic/Bases.md",
-    "Genetic/ATP.md",
-    "Recording 20221014151943.webm.md",
-    "Recording 20221014151943.webm",
-    "Genetic/Nucleoside.md",
-    "Genetic/Nucleotide.md"
+    "Genetic/Bases.md"
   ]
 }

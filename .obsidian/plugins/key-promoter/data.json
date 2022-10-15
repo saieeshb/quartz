@@ -10,8 +10,8 @@
     "workspace:undo-close-pane": 21,
     "workspace:close": 21,
     "workspace:close-others": 21,
-    "file-explorer:new-file": 7,
-    "templater-obsidian:create-new-note-from-template": 7,
+    "file-explorer:new-file": 8,
+    "templater-obsidian:create-new-note-from-template": 11,
     "graph:open": 9,
     "editor:rename-heading": 2,
     "command-palette:open": 2,
@@ -73,7 +73,7 @@
     "remotely-save:export-sync-plans-json": 1,
     "remotely-save:export-sync-plans-table": 1,
     "remotely-save:export-logs-in-db": 1,
-    "templater-obsidian:insert-templater": 1,
+    "templater-obsidian:insert-templater": 4,
     "insert-template": 1,
     "obsidian-to-notion:share-to-notion": 1,
     "obsidian-git:backup-and-close": 6,
@@ -81,7 +81,9 @@
     "obsidian-minimal-settings:cycle-minimal-image-width": 2,
     "obsidian-minimal-settings:cycle-minimal-iframe-width": 2,
     "obsidian-minimal-settings:cycle-minimal-chart-width": 2,
-    "obsidian-minimal-settings:cycle-minimal-map-width": 2
+    "obsidian-minimal-settings:cycle-minimal-map-width": 2,
+    "templater-obsidian:replace-in-file-templater": 3,
+    "templater-obsidian:jump-to-next-cursor-location": 3
   },
   "keyboardStatistics": {
     "switcher:open": 6
