@@ -1,3 +1,7 @@
+---
+title: DNA
+---
+
 # DNA
 ## Types of DNA:
 ### Double Stranded DNA
