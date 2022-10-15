@@ -6,5 +6,6 @@
   "fileSortOrder": "alphabetical",
   "attachmentFolderPath": "./",
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
 }

@@ -55,7 +55,7 @@ A shortcut to problems like this is to multiply the given %, subtract it from 10
 ```
 
 # DNA and it double-helix structure
-+ Most DNA in our body is **B-DNA** which means it is **Right-handed DNA**.![[minor_groove01.jpg]]
++ Most DNA in our body is **B-DNA** which means it is **Right-handed DNA**.![](content/Images/minor_groove01.jpg)
 + It has two grooves named Major Groove and Minor Groove
 + **10 bases** make up one complete turn which measures **34 A**
 + There are enzymes that can change how many bases make up a turn, i.e. relax or compress the DNA.
