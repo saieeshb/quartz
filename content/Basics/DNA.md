@@ -1,5 +1,6 @@
 ---
 title: DNA
+tags: #biochem
 ---
 
 # DNA
@@ -55,10 +56,11 @@ title: DNA
 + There are enzymes that can change how many bases make up a turn, i.e. relax or compress the DNA.
 +  The stacking of the DNA causes hydrophobic interactions between the adjacent base pair hydrogen bonds resulting in greater stability.
 ---
-# DNA Denaturation
+# DNA Denaturation & Renaturation
 + The cleavage of the strands of a dsDNA to create two seperate ssDNA strands is called DNA Denaturation
 + Denaturation is caused through Heat.
-+ Renaturation or Annealing is caused when seperated strands of complimentary DNA are allowed to cooldown causing them to bond again. Yep.
++ **Renaturation** or Annealing is caused when seperated strands of complimentary DNA are allowed to cooldown causing them to bond again. 
++ PCR works on this basis.
 
 
 
