@@ -66,3 +66,8 @@ A shortcut to problems like this is to multiply the given %, subtract it from 10
 + The cleavage of the strands of a dsDNA to create two seperate ssDNA strands is called DNA Denaturation
 + Denaturation is caused through Heat.
 + Renaturation or Annealing is caused when seperated strands of complimentary DNA are allowed to cooldown causing them to bond again. Yep.
+
+
+
+
+ 
