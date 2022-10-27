@@ -20,6 +20,7 @@ tags: #biochem
 ## Properties of dsDNA
 + DNA is **Antiparallel**, meaning that 5' phosphate is base paired with 3' hydroxyl at an end.
 + DNA is also **Complimentary**, meaning that A's always base pair with T's and G's always pair with C's
++ DNA is negatively charged due to the **Phosphate groups** present in it.
 ### Different bonds in DNA
 + A's and T's bond with *two* hydrogen bonds.
 + G's and C's bond with *three* hydrogen bonds.
@@ -34,6 +35,7 @@ tags: #biochem
  + All three mentioned above represent the same DNA.
  + If not mentioned, the left side is taken on 5' and right is takenn as 3' 
 ---
+
 # Chargaff's Rules
 **The amount of A's would be equal to the number of Ts(Us) and the number of G's are equal to the number of C's**
 **The number of purines and pyrimidines are equal**
