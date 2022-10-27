@@ -19,5 +19,6 @@ tags: #DNA
 
 >[!tip]  Nuclesomes are also called "10 Nanometer chromatids."
 
-- H1 is present outside the nucleosome.
-	- It helps in c
+- H1 is present  outside the nucleosome.
+	- It helps in condensing of the Nucleosome.
++ As shown in the figure above the nucleosomes are much loosely packed without H1 present.
