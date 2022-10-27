@@ -32,6 +32,7 @@ tags: #biochem
  + It could be also read as 5'-GpTpCpAp-3' where the P's stand for the phosphates in between the sugars.
  + If you wanted to read it from 3' to 5' you would read it as 3'-ACTG-5'
  + All three mentioned above represent the same DNA.
+ + If not mentioned, the left side is taken on 5' and right is takenn as 3' 
 ---
 # Chargaff's Rules
 **The amount of A's would be equal to the number of Ts(Us) and the number of G's are equal to the number of C's**
@@ -61,6 +62,8 @@ tags: #biochem
 + Denaturation is caused through Heat.
 + **Renaturation** or Annealing is caused when seperated strands of complimentary DNA are allowed to cooldown causing them to bond again. 
 + PCR works on this basis.
+---
+# [[Basics/Nucleosomes]] and Chromatin
 
 
 
