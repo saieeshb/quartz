@@ -10,4 +10,10 @@
 >[!NOTE]-  Interesting point about  chromosomes
 >If a chromosome was scanned from top to bottom, it would show all of the above phases of DNA all the way from double helix to Heterochromatin at different locations or **Domains** spread throughout the chromosome.
 
-- Euchromatin is said to be light-staining while Heterochromatin is dark-staining.
+>[!tip]- Euchromatin is said to be light-staining while Heterochromatin is dark-staining.
+>Hence since the DNA is more exposed in the Euchromatin, active gene expression takes place.
+>In the Heterochromatin, DNA isn't exposed and hence these are inactive.
+
+
+
+ 
