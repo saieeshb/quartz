@@ -14,6 +14,4 @@
 >Hence since the DNA is more exposed in the Euchromatin, active gene expression takes place.
 >In the Heterochromatin, DNA isn't exposed and hence these are inactive.
 
-
-
- 
+ >[!warning] In females, one of the X chromosome is competely heterochromatin and is termed as **Barr-Body**. 
