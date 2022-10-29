@@ -7,3 +7,7 @@
 - With the addition of some higher order proteins, the DNA can be packed even more into **Heterochromatin.** 
 	- At this point none of the DNA is exposed and all of it surrounded by proteins.
 
+>[!NOTE]-  Interesting point about  chromosomes
+>If a chromosome was scanned from top to bottom, it would show all of the above phases of DNA all the way from double helix to Heterochromatin at different locations or **Domains** spread throughout the chromosome.
+
+- Euchromatin is said to be light-staining while Heterochromatin is dark-staining.
