@@ -3,4 +3,7 @@
 	- They are now loosely condensed.
 - Upon adding the H1 protein, the nucleosomes are condensed even more forming **nucleofilaments** or 30nm chromatin.
 - Upon addition of certain **scaffloding proteins** it undergoes even more condensation.
-- Upto this point, all these DNA are termed as 
+- Upto this point, all these DNA are termed as **Euchromatin**.
+- With the addition of some higher order proteins, the DNA can be packed even more into **Heterochromatin.** 
+	- At this point none of the DNA is exposed and all of it surrounded by proteins.
+
