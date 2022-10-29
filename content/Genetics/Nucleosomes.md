@@ -3,7 +3,7 @@ title: "Nucleosomes"
 tags: #DNA
 ---
 
-- Nucleosomes are comprised of DNA surrounding proteins termed [[Basics/Histones]].
+- Nucleosomes are comprised of DNA surrounding proteins termed [[Genetics/Histones]].
 - Histones are +vely charged while DNA is negatively charged.
 -   They contain: 
 	- H1
@@ -15,7 +15,7 @@ tags: #DNA
 - Nucleosome is an Octamer. 
 	- 8 proteins make up a nucleosome.
 
-![[Basics/Pasted image 20221027132145.png]]
+![[Images/Pasted image 20221027132145.png]]
 
 >[!tip]  Nuclesomes are also called "10 Nanometer chromatids."
 
