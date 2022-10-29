@@ -15,3 +15,6 @@
 >In the Heterochromatin, DNA isn't exposed and hence these are inactive.
 
  >[!warning] In females, one of the X chromosome is competely heterochromatin and is termed as **Barr-Body**. 
+
+>[!todo] We have about 20,000 genes in our body. Two copies of them since we are diploid.
+
