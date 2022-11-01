@@ -26,12 +26,12 @@ title: "DNA Replication and Repair"
 4. Just like the DNA Polymerase, it also needs triphosphates instead of monophosphates.
 5. Unlike the DNA Polymerase, the RNA Polymerase does not have the ability to proofread and correct errors in polymerisation.
 6. RNA Polymerase carries out *Low-fidelity RNA Synthesis.*
+---
 
 >[!error]- Why does it not matter that RNA Polymerase does not have correction and proofreading abilities?
 > The RNA being made has a short half life. The scale that it is being made on is also very small. It doesn't matter that one of probably a thousand or a million cells producing the same protein is erroneous. It also isn't inherited like DNA.
 
-
-
- 
+>[!question]- Does the Reverse Transcriptase located in HIV require a primer?
+> **YES.** Since the material being made is DNA, Reverse Transcriptase is a type of DNA Polymerase and hence requires a primer.
 
 >[!question]- How does the RNA Polymerase know where the gene required for transcription is, without having a primer like DNA Polymerase has??? 
