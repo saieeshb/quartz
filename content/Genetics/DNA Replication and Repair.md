@@ -26,8 +26,10 @@ title: "DNA Replication and Repair"
 4. Just like the DNA Polymerase it also needs triphosphates instead of monophosphates.
 5. Unlike the DNA Polymerase, the RNA Polymerase does not have the ability to proofread and correct errors in polymerisation.
 6. RNA Polymerase carries out *Low-fidelity RNA Synthesis.*
----
+
+>[!error] W
 
 
+ 
 
 >[!question]- How does the RNA Polymerase know where the gene required for transcription is, without having a primer like DNA Polymerase has??? 
