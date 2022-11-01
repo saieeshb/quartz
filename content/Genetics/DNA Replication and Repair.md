@@ -43,7 +43,8 @@ title: "DNA Replication and Repair"
 
 >[!tip] Telomerase has reverse transcriptase activity.
 
-- Cells that grow and divide rapidly have increased activity of telomerase.
+- Cells that grow and divide rapidly have **increased activity of telomerase.**
 	- These may include normal ones like stem cells which grow and divide rapidly in the embryo stage.
 	- These can also be cancer cells, since they too grow at uncontrollable rates.
-- 
+
+>[!faq] People diagnosed with [[Genetics/Progeria]] have *decreased* activity of telomerase in their cells.
