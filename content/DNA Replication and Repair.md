@@ -5,7 +5,7 @@ title: "DNA Replication and Repair"
 # DNA vs RNA Polymerases
 ![[Images/Pasted image 20221101180854.png]]
 - - -
-# DNA Polymerase
+## DNA Polymerase
 1. Before replication begins, an RNA primer is laid on a part of a strand of the DNA to be replicated.
 2. The DNA Polymerase **always** **reads** **3' to 5'** on the DNA strand no matter what. 
 3. The DNA Polymerase **always adds to the 3' end** of the Primer.
@@ -14,5 +14,7 @@ title: "DNA Replication and Repair"
 	2. The remaining 2 phosphates are removed as inorganic pyro phosphates. (PPi)
 5.  Due to the ability of DNA Polymerase to proofread, in the case of making an error while adding the nucleotides, as shown in the above figure, it pauses, checks and effectively removes the irregularly placed base. 
 	1. This is possible due to DNA Polymerase having **3' exonuclease** activity and therefore removing the nucleotide.
-6. 
-7.  
+---
+## RNA Polymerase
+1. Unlike DNA Polymerase, the RNA Polymerase does not require a primer to start the process of transcription.
+2. 
