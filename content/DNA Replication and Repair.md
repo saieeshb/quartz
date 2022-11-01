@@ -12,5 +12,7 @@ title: "DNA Replication and Repair"
 4. The DNA Polymerase needs all 4 deoxytriphosphates (dATP, dGTP, dCTP, and dTTP) to add to the 3' end. 
 	1. It does not just add up deoxymonophosphates like legos. 
 	2. The remaining 2 phosphates are removed as inorganic pyro phosphates. (PPi)
-5.  In the case of making an error while adding the complimentary bases, as shown in the above figure, 
-6.  
+5.  Due to the ability of DNA Polymerase to proofread, in the case of making an error while adding the nucleotides, as shown in the above figure, it pauses, checks and effectively removes the irregularly placed base. 
+	1. This is possible due to DNA Polymerase having **3' exonuclease** activity and therefore removing the nucleotide.
+6. 
+7.  
