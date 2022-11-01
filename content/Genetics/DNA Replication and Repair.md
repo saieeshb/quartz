@@ -35,3 +35,7 @@ title: "DNA Replication and Repair"
 > **YES.** Since the material being made is DNA, Reverse Transcriptase is a type of DNA Polymerase and hence requires a primer.
 
 >[!question]- How does the RNA Polymerase know where the gene required for transcription is, without having a primer like DNA Polymerase has??? 
+
+---
+# Telomerase
+- Telomerase finishes the job DNA Polymerase st
