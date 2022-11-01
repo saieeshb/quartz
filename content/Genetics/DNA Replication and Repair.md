@@ -27,7 +27,8 @@ title: "DNA Replication and Repair"
 5. Unlike the DNA Polymerase, the RNA Polymerase does not have the ability to proofread and correct errors in polymerisation.
 6. RNA Polymerase carries out *Low-fidelity RNA Synthesis.*
 
->[!error] W
+>[!error]- Why does it not matter that RNA Polymerase does not have correction and proofreading abilities?
+> The RNA being made has a short half life. The scale that it is being made on is also very small. It doesn't matter that one of probaby a thousand or a million 
 
 
  
