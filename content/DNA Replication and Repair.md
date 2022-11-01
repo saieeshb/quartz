@@ -9,4 +9,8 @@ title: "DNA Replication and Repair"
 1. Before replication begins, an RNA primer is laid on a part of a strand of the DNA to be replicated.
 2. The DNA Polymerase **always** **reads** **3' to 5'** on the DNA strand no matter what. 
 3. The DNA Polymerase **always adds to the 3' end** of the Primer.
-4. The DNA Polymerase needs all 4 deoxytriphosphates (dATP, dGTP, dCTP, and dTTP) to add to the 3' end. It does not just add up deoxymonophosphates like legs
+4. The DNA Polymerase needs all 4 deoxytriphosphates (dATP, dGTP, dCTP, and dTTP) to add to the 3' end. 
+	1. It does not just add up deoxymonophosphates like legos. 
+	2. The remaining 2 phosphates are removed as inorganic pyro phosphates. (PPi)
+5.  In the case of making an error while adding the complimentary bases, as shown in the above figure, 
+6.  
