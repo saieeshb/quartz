@@ -7,7 +7,7 @@ title: "DNA Replication and Repair"
 - - -
 ## DNA Polymerase
 1. Before replication begins, an RNA primer is laid on a part of a strand of the DNA to be replicated.
-2. The DNA Polymerase **always** **reads** **3' to 5'** on the DNA strand no matter what. 
+2. The DNA Polymerase **always** **reads** **3' to 5'** on the DNA strand, no matter what. 
 3. The DNA Polymerase **always adds to the 3' end** of the Primer.
 4. The DNA Polymerase needs all 4 deoxytriphosphates (dATP, dGTP, dCTP, and dTTP) to add to the 3' end. 
 	1. It does not just add up deoxymonophosphates like legos. 
@@ -23,12 +23,13 @@ title: "DNA Replication and Repair"
 1. Unlike DNA Polymerase, the RNA Polymerase does not require a primer to start the process of transcription.
 2. Just like the DNA Polymerase, it reads the strand of DNA from 3' to 5' as well.
 3. Adds nucleotides from 5' to 3'.
-4. Just like the DNA Polymerase it also needs triphosphates instead of monophosphates.
+4. Just like the DNA Polymerase, it also needs triphosphates instead of monophosphates.
 5. Unlike the DNA Polymerase, the RNA Polymerase does not have the ability to proofread and correct errors in polymerisation.
 6. RNA Polymerase carries out *Low-fidelity RNA Synthesis.*
 
 >[!error]- Why does it not matter that RNA Polymerase does not have correction and proofreading abilities?
-> The RNA being made has a short half life. The scale that it is being made on is also very small. It doesn't matter that one of probaby a thousand or a million 
+> The RNA being made has a short half life. The scale that it is being made on is also very small. It doesn't matter that one of probably a thousand or a million cells producing the same protein is erroneous. It also isn't inherited like DNA.
+
 
 
  
