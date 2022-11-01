@@ -18,3 +18,5 @@ title: "DNA Replication and Repair"
 ## RNA Polymerase
 1. Unlike DNA Polymerase, the RNA Polymerase does not require a primer to start the process of transcription.
 2. 
+>[!question]- How does the RNA Polymerase know where the gene required for transcription is, without having a primer like DNA Polymerase has??? 
+>
