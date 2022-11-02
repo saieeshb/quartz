@@ -5,4 +5,3 @@ title: "DNA Gyrase"
 - [[Genetics/Fluoroquinones]] target and inhibit gyrase and hence prevent replication in prokaryotes.
 - Similarly for Eukaryotes, **Etoposide and Teniposide** inhibit the DNA Topoisomerase II present in Eukaryotes and help prevent the growth of Cancer cells.
 - The DNA Gyrase in both prokaryotes and eukaryotes is the same.
-**<u>2:35:15 </u>
