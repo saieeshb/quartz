@@ -37,4 +37,9 @@ title: "DNA Replication and Repair"
 >[!question]- How does the RNA Polymerase know where the gene required for transcription is, without having a primer like DNA Polymerase has??? 
 
 ---
-Read: [[Genetics/Telomerase]] and 
+Read: [[Genetics/Telomerase]] and [[Genetics/DNA Gyrase]]
+
+---
+## DNA Repair
+![[Images/Pasted image 20221102195107.png]]
+- 
