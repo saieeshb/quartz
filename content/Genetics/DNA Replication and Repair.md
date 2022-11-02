@@ -45,4 +45,7 @@ Read: [[Genetics/Telomerase]] and [[Genetics/DNA Gyrase]]
 1. Thymine dimers form due to UV Radiation. This is fixed by:
 	1. [[Genetics/Excision Endonuclease]] removing the dimer.
 	2. DNA Polymerase and Ligase adding in the new bases and ligating them respectively.
-2. Mismatched Bases are fix
+2. Mismatched Bases are caused due to DNA Replication errors. They are fixed by:
+	1. A pair of genes, hMSH2 and hMLH1 in which one finds the error and the other excises it help remove the wrong bases.
+	2. Just like for the Thymine dimers, correct bases are added and joined together by DNA Polymerase and Ligase.
+3. 
