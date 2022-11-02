@@ -1,5 +1,5 @@
 ---
-title: "Transcription and RNA Processing"-
+title: "Transcription and RNA Processing"
 ---
 
 # RNA Polymerase
