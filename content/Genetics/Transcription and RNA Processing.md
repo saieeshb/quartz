@@ -13,4 +13,5 @@ title: "Transcription and RNA Processing"-
 		- This strand is complementary to the mRNA being made.
 	- The strand of DNA which is not used is known as the **Coding strand.**
 		- This strand is identical to the mRNA being made except the T/U.
-- The DNA is read 3' to 5
+- The DNA is read 3' to 5' and the mRNA is made 5' to 3'.
+- 
