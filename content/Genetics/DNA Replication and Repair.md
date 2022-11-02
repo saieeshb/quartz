@@ -42,4 +42,6 @@ Read: [[Genetics/Telomerase]] and [[Genetics/DNA Gyrase]]
 ---
 ## DNA Repair
 ![[Images/Pasted image 20221102195107.png]]
-- 
+1. Thymine dimers form due to UV Radiation. This is fixed by:
+	1. [[Genetics/Excision Endonuclease]] removing the dimer.
+	2. DNA Polymerase and Ligase adding in the new bases and ligating them respectively. 
