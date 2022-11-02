@@ -56,5 +56,6 @@ Read: [[Genetics/Telomerase]] and [[Genetics/DNA Gyrase]]
 > >[!warning]- Then what does the 5' exonuclease do?
 > >It removes the RNA Primer.
 
-
- 
+---
+## Tumor Supressor Genes and DNA Repair
+- The p53 gene encodes a pr
