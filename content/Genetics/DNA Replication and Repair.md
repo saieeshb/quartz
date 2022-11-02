@@ -48,4 +48,6 @@ Read: [[Genetics/Telomerase]] and [[Genetics/DNA Gyrase]]
 2. Mismatched Bases are caused due to DNA Replication errors. They are fixed by:
 	1. A pair of genes, hMSH2 and hMLH1 in which one finds the error and the other excises it help remove the wrong bases.
 	2. Just like for the Thymine dimers, correct bases are added and joined together by DNA Polymerase and Ligase.
-3. 
+3. Cytosine deamination forms Uracil. This is caused due to spontaneous heat or nitrates. 
+	1. The uracil is removed by Uracil Glycosylase AP endonuclease. Since uracil should not exist in DNA.
+4. 
