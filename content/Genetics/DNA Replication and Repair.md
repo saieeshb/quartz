@@ -50,4 +50,11 @@ Read: [[Genetics/Telomerase]] and [[Genetics/DNA Gyrase]]
 	2. Just like for the Thymine dimers, correct bases are added and joined together by DNA Polymerase and Ligase.
 3. Cytosine deamination forms Uracil. This is caused due to spontaneous heat or nitrates. 
 	1. The uracil is removed by Uracil Glycosylase AP endonuclease. Since uracil should not exist in DNA.
-4. 
+
+>[!faq]- Does any repair occur in the S-phase?
+> Yes, DNA Polymerase has 3' exonuclease activity which it uses to remove mismatched bases.
+> >[!warning]- Then what does the 5' exonuclease do?
+> >It removes the RNA Primer.
+
+
+ 
