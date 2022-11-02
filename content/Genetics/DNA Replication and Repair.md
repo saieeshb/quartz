@@ -58,4 +58,10 @@ Read: [[Genetics/Telomerase]] and [[Genetics/DNA Gyrase]]
 
 ---
 ## Tumor Supressor Genes and DNA Repair
-- The p53 gene encodes a pr
+- The **p53 gene** encodes a protein of molecular weight 53, which guards the boundary of the G<sub>1</sub> and S phase.
+	- If the cell in the G<sub>1</sub> phase has damaged DNA, it does not allow the cell to enter the S phase.
+	- It does this by inducing apoptosis.
+	- It hence supresses tumor formation.
+
+>[!warning] Mutation of the p53 gene causes the Li Fraumel syndrome and many solid tumors.
+
