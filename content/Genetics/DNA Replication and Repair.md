@@ -15,10 +15,8 @@ title: "DNA Replication and Repair"
 5.  Due to the ability of DNA Polymerase to proofread, in the case of making an error while adding the nucleotides, as shown in the above figure, it pauses, checks and effectively removes the irregularly placed base. 
 	1. This is possible due to DNA Polymerase having **3' exonuclease** activity and therefore removing the nucleotide.
 6. DNA Polymerase carries out *High-Fidelity DNA Synthesis.*
-7. 
-8. 
-9. 
-   >[!NOTE]- DNA Polymerase has **High Fidelity** *NOT* **Perfect Fidelity** hence mutations still *do* occur. 
+
+>[!NOTE]- DNA Polymerase has **High Fidelity** *NOT* **Perfect Fidelity** hence mutations still *do* occur. 
 >If it were perfect, we would've had no mutatory genetic diseases at all.
 
 
@@ -33,6 +31,7 @@ title: "DNA Replication and Repair"
 ---
 
 >[!error]- Why does it not matter that RNA Polymerase does not have correction and proofreading abilities?
+>
 > The RNA being made has a short half life. The scale that it is being made on is also very small. It doesn't matter that one of probably a thousand or a million cells producing the same protein is erroneous. It also isn't inherited like DNA.
 
 >[!question]- Does the Reverse Transcriptase located in HIV require a primer?
