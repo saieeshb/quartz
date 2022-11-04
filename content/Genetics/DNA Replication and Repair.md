@@ -22,7 +22,7 @@ title: "DNA Replication and Repair"
 ## RNA Polymerase
 1. Unlike DNA Polymerase, the RNA Polymerase does not require a primer to start the process of transcription.
 2. Just like the DNA Polymerase, it reads the strand of DNA from 3' to 5' as well.
-3. Adds nucleotides from 5' to 3'.
+3. Adds nucleotides from 5' to 3'
 4. Just like the DNA Polymerase, it also needs triphosphates instead of monophosphates.
 5. Unlike the DNA Polymerase, the RNA Polymerase does not have the ability to proofread and correct errors in polymerisation.
 6. RNA Polymerase carries out *Low-fidelity RNA Synthesis.*
