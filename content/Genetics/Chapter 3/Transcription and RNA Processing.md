@@ -20,6 +20,8 @@ title: "Transcription and RNA Processing"
 	- mRNA - made at euchromatin
 	- tRNA - made at euchromatin
 	- rRNA - most of it is made in the nucleolus
-
+---
+# Flow of Genetic Information
 ![[Images/Pasted image 20221104194624.png]]
 
+- The 
