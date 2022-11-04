@@ -21,4 +21,3 @@ title: "DNA Packaging"
 
 >[!todo] We have about 20,000 genes in our body. Two copies of them since we are diploid.
 
-123 test
