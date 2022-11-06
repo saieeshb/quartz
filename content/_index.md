@@ -1,5 +1,5 @@
 ---
-title: "Saieesh's Second Brain "
+title: "Hippocampus"
 enableToc: false
 ---
 
