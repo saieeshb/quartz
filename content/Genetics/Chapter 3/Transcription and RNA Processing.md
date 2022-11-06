@@ -29,3 +29,12 @@ title: "Transcription and RNA Processing"
 >[!tip] The coding strand is called the coding strand since it "codes" for the protein in the end. Coding strand is the one which is reported in databases.
 
 
+>[!faq]- ![[Images/Pasted image 20221106193941.png]]
+>
+> The answer is E. RNA is antiparallel and complementary to the template strand. Also remember that, by convention, all base sequences are written in the 5′ to 3′ direction regardless of the direction in which the sequence may actually be used in the cell.
+Approach:
+• Cross out any option with a T (RNA has U).
+• Look at the 5′ end of DNA (T in this case).
+• What is the complement of this base? (A)
+Examine the options given. A correct option will have the complement (A in this example) at the 3′ end. Repeat the procedure for the 3′ end of the DNA. This will usually leave only one or two options.
+
