@@ -26,4 +26,4 @@ title: "Transcription and RNA Processing"
 ![[Images/Pasted image 20221104194624.png]]
 
 - The N-terminus and C-terminus are the two ends of the protein.
-- 
+>[!tip] The coding strand is called the coding strand since it "codes" for the protein in the end. Coding strand is the one which is reported in databases.
