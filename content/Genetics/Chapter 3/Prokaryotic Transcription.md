@@ -13,4 +13,7 @@ tags: #Genetics
 	  1. These are polygene areas/ polycistronic messengers.
 	  2. Microbes have polygene regions.
   2. Promoter
-	  1. Negative numbber
+	  1. Negative numbered nucleotides refer to nucleotides of the promoter regions while positive nucleotides refer to the nucleotides of the gene region.
+  3. No exons or introns in prokaryotes.
+  4. Somewhere at the 3' end, a strech of Gs and Cs are formed which form the stem-loop sequence.
+	  1. The Gs and Cs bind to each other a
