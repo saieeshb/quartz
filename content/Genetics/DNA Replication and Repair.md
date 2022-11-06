@@ -17,6 +17,7 @@ title: "DNA Replication and Repair"
 6. DNA Polymerase carries out *High-Fidelity DNA Synthesis.*
 
 >[!NOTE]- DNA Polymerase has **High Fidelity** *NOT* **Perfect Fidelity** hence mutations still *do* occur. 
+>
 >If it were perfect, we would've had no mutatory genetic diseases at all.
 
 
@@ -35,6 +36,7 @@ title: "DNA Replication and Repair"
 > The RNA being made has a short half life. The scale that it is being made on is also very small. It doesn't matter that one of probably a thousand or a million cells producing the same protein is erroneous. It also isn't inherited like DNA.
 
 >[!question]- Does the Reverse Transcriptase located in HIV require a primer?
+>
 > **YES.** Since the material being made is DNA, Reverse Transcriptase is a type of DNA Polymerase and hence requires a primer.
 
 >[!question]- How does the RNA Polymerase know where the gene required for transcription is, without having a primer like DNA Polymerase has??? 
@@ -55,8 +57,10 @@ Read: [[Genetics/Telomerase]] and [[Genetics/DNA Gyrase]]
 	1. The uracil is removed by Uracil Glycosylase AP endonuclease. Since uracil should not exist in DNA.
 
 >[!faq]- Does any repair occur in the S-phase?
+>
 > Yes, DNA Polymerase has 3' exonuclease activity which it uses to remove mismatched bases.
 > >[!warning]- Then what does the 5' exonuclease do?
+> >
 > >It removes the RNA Primer.
 
 ---
