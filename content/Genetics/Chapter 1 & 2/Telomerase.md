@@ -11,7 +11,7 @@ title: "Telomerase"
 	- These may include normal ones like stem cells which grow and divide rapidly in the embryo stage.
 	- These can also be cancer cells, since they too grow at uncontrollable rates.
 
->[!faq] People diagnosed with [[Genetics/Progeria]] have *decreased* activity of telomerase in their cells.
+>[!faq] People diagnosed with [[Genetics/Chapter 1 & 2/Progeria]] have *decreased* activity of telomerase in their cells.
 
 >[!warning] Prokaryotic cells don't require telomerase. Why?
 > That's because prokaryotes have circular DNA.

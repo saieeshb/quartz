@@ -26,4 +26,4 @@ title: "Transcription and RNA Processing"
 ![[Images/Pasted image 20221104194624.png]]
 
 - The N-terminus and C-terminus are the two ends of the protein.
-- hello there
+- 
