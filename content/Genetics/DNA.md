@@ -65,7 +65,7 @@ tags: #biochem
 + **Renaturation** or Annealing is caused when seperated strands of complimentary DNA are allowed to cooldown causing them to bond again. 
 + PCR works on this basis.
 ---
-# [[Notes/Nucleosomes]] and Chromatin
+# [[Genetics/Nucleosomes]] and Chromatin
 
 
 

@@ -40,4 +40,4 @@ Approach:
 • What is the complement of this base? (A)
 Examine the options given. A correct option will have the complement (A in this example) at the 3′ end. Repeat the procedure for the 3′ end of the DNA. This will usually leave only one or two options.
 
-Next: [[Notes/Prokaryotic Transcription]]
+Next: [[Genetics/Prokaryotic Transcription]]
