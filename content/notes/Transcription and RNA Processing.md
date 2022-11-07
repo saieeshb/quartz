@@ -2,6 +2,7 @@
 title: "Transcription and RNA Processing"
 tags: 
 - Genetics
+- Biochem
 ---
 
 # RNA Polymerase
