@@ -1,6 +1,7 @@
 ---
 title: "Prokaryotic Transcription"
-tags: #Genetics
+tags: 
+- Genetics
 ---
 
 # UTR

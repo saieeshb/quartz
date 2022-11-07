@@ -3,7 +3,7 @@ title: "Nucleosomes"
 tags: #DNA
 ---
 
-- Nucleosomes are comprised of DNA surrounding proteins termed [[Genetics/Chapter 1 & 2/Histones]].
+- Nucleosomes are comprised of DNA surrounding proteins termed [[notes/Histones]].
 - Histones are +vely charged while DNA is negatively charged.
 -   They contain: 
 	- H1

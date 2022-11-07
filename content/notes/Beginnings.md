@@ -6,7 +6,7 @@ title: Beginnings
 
 | How?                   | Replication     | Transcription             |
 | ---------------------- | --------------- | ------------------------- |
-| Nucleic Acid           | [[Genetics/Chapter 1 & 2/DNA]] is formed   | RNA is formed             |
+| Nucleic Acid           | [[notes/DNA]] is formed   | RNA is formed             |
 | Length of Nucleic Acid | Larger          | Much, much smaller        |
 | Enzymes                | DNA polymerase  | RNA polymerase            |
 | Phases of cell cycle   | Only in S phase | All throughout Interphase |
