@@ -20,4 +20,7 @@ tags:
   4. Somewhere at the 3' end, a strech of Gs and Cs are formed which form the stem-loop sequence.
 	  1. The Gs and Cs bind to each other creating the stem-loop sequence shown above.
 	  2. The stem loop (being big) blocks the RNA Polymerase from continuing to transcribe, hence effectively ending the process of transcription.
-	  3. 
+  5. No transcriptional processing happens in prokaryotes.
+	  1. ![[Images/Pasted image 20221107173456.png]]
+	  2. A bunch of genes can have a single promoter and terminator.
+  6. Ribosomes b
