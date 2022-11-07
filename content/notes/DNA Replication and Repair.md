@@ -2,7 +2,7 @@
 title: "DNA Replication and Repair"
 ---
 
-# [[Genetics/DNA]] vs RNA Polymerases
+# [[notes/DNA]] vs RNA Polymerases
  
 - - -
 ## DNA Polymerase
@@ -42,13 +42,13 @@ title: "DNA Replication and Repair"
 >[!question]- How does the RNA Polymerase know where the gene required for transcription is, without having a primer like DNA Polymerase has??? 
 
 ---
-Read: [[Genetics/Telomerase]] and [[Genetics/DNA Gyrase]]
+Read: [[notes/Telomerase]] and [[notes/DNA Gyrase]]
 
 ---
 ## DNA Repair
 ![[Images/Pasted image 20221102195107.png]]
 1. Thymine dimers form due to UV Radiation. This is fixed by:
-	1. [[Genetics/Excision Endonuclease]] removing the dimer.
+	1. [[notes/Excision Endonuclease]] removing the dimer.
 	2. DNA Polymerase and Ligase adding in the new bases and ligating them respectively.
 2. Mismatched Bases are caused due to DNA Replication errors. They are fixed by:
 	1. A pair of genes, hMSH2 and hMLH1 in which one finds the error and the other excises it help remove the wrong bases.
