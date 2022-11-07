@@ -3,7 +3,7 @@ title: DNA vs RNA
 ---
 
 # DNA vs RNA
-| [[notes/DNA]]    | RNA     |
+| [[Notes/DNA]]    | RNA     |
 | ----------- | ------- |
 | Deoxyribose | Ribose  |
 | A,G,C,T     | A,G,C,U |
