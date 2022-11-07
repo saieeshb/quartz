@@ -17,4 +17,4 @@ tags: #Genetics
   3. No exons or introns in prokaryotes.
   4. Somewhere at the 3' end, a strech of Gs and Cs are formed which form the stem-loop sequence.
 	  1. The Gs and Cs bind to each other creating the stem-loop sequence shown above.
-	  2. The stem loop (being big) blocks the RNA Polymerase from continu
+	  2. The stem loop (being big) blocks the RNA Polymerase from continuing to transcribe. 3:44
