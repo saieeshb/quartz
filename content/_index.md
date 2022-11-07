@@ -3,6 +3,6 @@ title: "Hippocampus"
 enableToc: false
 ---
 
->[!NOTE]-  This is a work in progress.
->
->will update this page later.
+I am currently in the process of building this. I plan to push my thoughts, notes and other things I note down to this website.
+
+See all of my current [notes](/notes)
