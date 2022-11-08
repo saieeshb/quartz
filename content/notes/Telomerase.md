@@ -14,5 +14,6 @@ title: "Telomerase"
 >[!faq] People diagnosed with [[notes/Progeria]] have *decreased* activity of telomerase in their cells.
 
 >[!warning] Prokaryotic cells don't require telomerase. Why?
+>
 > That's because prokaryotes have circular DNA.
 

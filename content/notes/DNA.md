@@ -40,14 +40,17 @@ tags: #biochem
 **The amount of A's would be equal to the number of Ts(Us) and the number of G's are equal to the number of C's**
 **The number of purines and pyrimidines are equal**
 >[!example]- **Suppose a sample of dsDNA has 35% of A. What is the % of C?**
+>
 >*Ans: 15%* 
 >
 >If A is 35% then T has to be 35%, so together they make 70% and the remaining 30% has to be G and C together, since G and C are equal, both G and C have to be 15% each.
 
 >[!tip]  
+>
 >A shortcut to problems like this is to multiply the given %, subtract it from 100 and divide it by 2.
 
 >[!warning] 
+>
 > If you can't seem to apply Chargaff's rules to a strand of DNA. It may be **ssDNA** you're dealing with.
 
 

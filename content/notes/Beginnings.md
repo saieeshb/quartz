@@ -12,6 +12,7 @@ title: Beginnings
 | Phases of cell cycle   | Only in S phase | All throughout Interphase |
 |                        |                 |                           |
 > [!note]+
+> 
 > Transcription and Translation does **NOT** take place during M phase.
 
 + ***Growth factors*** give the signal for the cell to go from G<sub>1</sub> to S phase.
