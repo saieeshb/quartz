@@ -4,7 +4,6 @@ title: "DNA Replication and Repair"
 
 # [[notes/DNA]] vs RNA Polymerases
  
-- - -
 ## DNA Polymerase
 1. Before replication begins, an RNA primer is laid on a part of a strand of the DNA to be replicated.
 2. The DNA Polymerase **always** **reads** **3' to 5'** on the DNAbb strand, no matter what. 
@@ -41,10 +40,8 @@ title: "DNA Replication and Repair"
 
 >[!question]- How does the RNA Polymerase know where the gene required for transcription is, without having a primer like DNA Polymerase has??? 
 
----
 Read: [[notes/Telomerase]] and [[notes/DNA Gyrase]]
 
----
 ## DNA Repair
 ![[Images/Pasted image 20221102195107.png]]
 1. Thymine dimers form due to UV Radiation. This is fixed by:
