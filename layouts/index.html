@@ -13,14 +13,16 @@
 
 <body>
 {{partial "search.html" .}}
-<div class="singlePage">
-    <!-- Begin actual content -->
-    {{partial "header.html" .}}
 <div class="recent stuff">
   <h2>Recent Notes</h2>
   {{$notes := where .Site.RegularPages "Section" "notes" }}
+  <ul>
   {{range first 3 $notes}}
+  </ul>
 </div>
+<div class="singlePage">
+    <!-- Begin actual content -->
+    {{partial "header.html" .}}
     <article>
         {{partial "toc.html" .}}
         {{partial "textprocessing.html" . }}
