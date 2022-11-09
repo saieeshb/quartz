@@ -49,7 +49,6 @@ tags: #biochem
 >  A shortcut to problems like this is to multiply the given %, subtract it from 100 and divide it by 2.
 
 >[!warning] 
->
 > If you can't seem to apply Chargaff's rules to a strand of DNA. It may be **ssDNA** you're dealing with.
 
 
