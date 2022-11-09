@@ -45,9 +45,8 @@ tags: #biochem
 >
 >If A is 35% then T has to be 35%, so together they make 70% and the remaining 30% has to be G and C together, since G and C are equal, both G and C have to be 15% each.
 
->[!tip]  
->
->A shortcut to problems like this is to multiply the given %, subtract it from 100 and divide it by 2.
+>[!tip]
+>  A shortcut to problems like this is to multiply the given %, subtract it from 100 and divide it by 2.
 
 >[!warning] 
 >
