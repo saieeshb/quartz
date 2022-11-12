@@ -28,5 +28,8 @@ tags:
 	  1. ![[Images/Pasted image 20221107173456.png]]
 	  2. A bunch of genes can have a single promoter and terminator.
   6. Ribosomes bind to the **Shine-Dalgarno** sequence to start translating.
-	  1. Each ribosome translates a different gene.
-	  2.  
+	  1. Each gene is translated independently.
+>[!NOTE]- Rifampin
+>
+> It inhibits prokaryotic RNA polymerase.
+> It is used to treat Tuberculosis and Meningitis.
