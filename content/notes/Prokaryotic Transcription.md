@@ -47,4 +47,9 @@ tags:
 - Each gene has its own promoter.
 - Exon is the Expressed part
 - Introns are the intervening part.
-1. No Operons in eukaryotic transcription 
+1. No Operons in eukaryotic transcriptions. These only exist in prokaryotic organisms.
+	1. This is because we have monocistronic genes.
+2. RNA Polymerase binds to the Promoter and starts transcripting.
+3. Intron are intervening sequences that are spliced away later after transcription.
+4.  Unlike the prokaryotes, most genes in the eukaryotes don't cause a GC Stem loop. 
+5. 
