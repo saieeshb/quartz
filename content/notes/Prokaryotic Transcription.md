@@ -52,4 +52,9 @@ tags:
 2. RNA Polymerase binds to the Promoter and starts transcripting.
 3. Intron are intervening sequences that are spliced away later after transcription.
 4.  Unlike the prokaryotes, most genes in the eukaryotes don't cause a GC Stem loop. 
-5. 
+>[!warning] Alpha-amanitin found in some mushrooms is fatal and causes death because...
+>
+>It blocks RNA Polymerase in Eukaryotes hence, you can't produce protein and you die. lul
+
+>[!faq] Sometimes some diseases can be caused due to mutations of the promoter of the gene instead of the gene itself. Hence it can 
+
