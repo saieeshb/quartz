@@ -56,5 +56,5 @@ tags:
 >
 >It blocks RNA Polymerase in Eukaryotes hence, you can't produce protein and you die. lul
 
->[!faq] Sometimes some diseases can be caused due to mutations of the promoter of the gene instead of the gene itself. Hence it can 
+>[!faq] Sometimes some diseases can be caused due to mutations of the promoter of the gene instead of the gene itself. Hence it can cause the same issue. This can be seen in OI.
 
