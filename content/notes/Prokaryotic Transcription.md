@@ -45,4 +45,6 @@ tags:
 
 - This means each gene is more widely spaced.
 - Each gene has its own promoter.
-- 
+- Exon is the Expressed part
+- Introns are the intervening part.
+1. No Operons in eukaryotic transcription 
