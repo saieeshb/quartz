@@ -41,4 +41,8 @@ tags:
 # Eukaryotic Transcription
 ![[Images/Pasted image 20221112143159.png]]
 
->[!tip]  Only about 1.5% percent of you 
+>[!tip]  Only about 1.5% percent of our chromosomal DNA actually codes for a protein.
+
+- This means each gene is more widely spaced.
+- Each gene has its own promoter.
+- 
