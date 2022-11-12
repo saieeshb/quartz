@@ -29,4 +29,4 @@ tags:
 	  2. A bunch of genes can have a single promoter and terminator.
   6. Ribosomes bind to the **Shine-Dalgarno** sequence to start translating.
 	  1. Each ribosome translates a different gene.
-	  2. 
+	  2.  
