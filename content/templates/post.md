@@ -1,4 +1,6 @@
 ---
 title: "<% tp.file.title %>"
-tags: 
+tags:
+- Genetics
+- Biochem
 ---
