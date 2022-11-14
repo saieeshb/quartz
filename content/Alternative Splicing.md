@@ -15,3 +15,13 @@ tags:
 ## Results
 - This hence creates multiple types of proteins from the same gene.
 - They proteins will be related but not identical to each other.
+>[!example] Examples of this are:
+>
+>**Membrane Ig vs Secreted Ig**
+>	They both are related but not identical to each other in the fact that one is membrane bound while the other one is secreted outside.
+>
+> **Different Tropomyosin Variants in the muscle**
+> 
+> **Dopamine receptors in brain**
+
+>[!faq] Over 50
