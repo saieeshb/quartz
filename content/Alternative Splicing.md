@@ -24,4 +24,6 @@ tags:
 > 
 > **Dopamine receptors in brain**
 
->[!faq] Over 50
+>[!faq] Over 60% of our RNA produced undergoes alternative splicing.
+>
+
