@@ -57,7 +57,10 @@ tags:
 		1. It is **co-transcriptional** meaning that it occurs simultaneosly while RNA Polymerase is transcribing the DNA itself.
 	2. A couple of enzymes add the Poly-A tail to the Pre-mRNA to the 3' end.
 		1. It is **post-transcriptional** meaning that it occurs after the RNA Polymerase is done transcribing.
-		2. Obv it would be post-transcriptional because, you can only add it to the 3' end if it
+		2. Obv it would be post-transcriptional because, you can only add it to the 3' end if the transcription is over in the first place.
+	3. Splicing occurs removing the introns.
+		1. Spliceosomes aka snRNA splice out the intron by looping the 5' splice donor site and the 3' splice acceptor site, causing them to base  pair and then scissoring off the loop / lariat.
+		2. It is **post-transcriptional**
 >[!warning] Alpha-amanitin found in some mushrooms is fatal and causes death because...
 >
 >It blocks RNA Polymerase in Eukaryotes hence, you can't produce protein and you die. lul
