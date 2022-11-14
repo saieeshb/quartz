@@ -22,4 +22,4 @@ tags:
 	1. The A has a OH attached to it at the 3' end via covalent bond.
 3. At the bottom of the tRNA is the anticodon.
 	1. It is used to base pair to the codon in the mRNA.
-	2. It is antiparallel and complimentary.
+	2. It is antiparallel and complimentary. 
