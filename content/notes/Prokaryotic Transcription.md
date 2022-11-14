@@ -61,7 +61,9 @@ tags:
 	3. Splicing occurs removing the introns.
 		1. Spliceosomes aka snRNA splice out the intron by looping the 5' splice donor site and the 3' splice acceptor site, causing them to base  pair and then scissoring off the loop / lariat.
 		2. It is **post-transcriptional** for obvious reasons.
-		3. There are many diseases caused due to incorrect splicing. A
+		3. There are many diseases caused due to incorrect splicing. 
+			1. In beta-thalasemia, there is a mutation in the splice donore site of the first intron which causes the intron not to be removed.
+			2. Another example is Marfan syndrome, and [[notes/Tay-Sachs Syndrome.]]
 >[!warning] Alpha-amanitin found in some mushrooms is fatal and causes death because...
 >
 >It blocks RNA Polymerase in Eukaryotes hence, you can't produce protein and you die. lul
