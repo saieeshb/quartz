@@ -38,4 +38,4 @@ tags:
 >[!tip] Quinolones are used to inhibit replication and **NOT** transcription or translation.
 
 ---
-Next: [[Eukaryotic Transcription]]
+Next: [[notes/Eukaryotic Transcription]]
