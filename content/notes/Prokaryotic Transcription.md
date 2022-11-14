@@ -63,7 +63,7 @@ tags:
 		2. It is **post-transcriptional** for obvious reasons.
 		3. There are many diseases caused due to incorrect splicing. 
 			1. In beta-thalasemia, there is a mutation in the splice donore site of the first intron which causes the intron not to be removed.
-			2. Another example is [[notes/Marfan syndrome]], and [[notes/Tay-Sachs Syndrome]].
+			2. Another example is [[notes/Marfan syndrome]], and [[notes/Tay-Sachs Syndrome]]
 >[!warning] Alpha-amanitin found in some mushrooms is fatal and causes death because...
 >
 >It blocks RNA Polymerase in Eukaryotes hence, you can't produce protein and you die. lul
