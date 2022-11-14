@@ -60,7 +60,8 @@ tags:
 		2. Obv it would be post-transcriptional because, you can only add it to the 3' end if the transcription is over in the first place.
 	3. Splicing occurs removing the introns.
 		1. Spliceosomes aka snRNA splice out the intron by looping the 5' splice donor site and the 3' splice acceptor site, causing them to base  pair and then scissoring off the loop / lariat.
-		2. It is **post-transcriptional**
+		2. It is **post-transcriptional** for obvious reasons.
+		3. There are many diseases caused due to incorrect splicing. A
 >[!warning] Alpha-amanitin found in some mushrooms is fatal and causes death because...
 >
 >It blocks RNA Polymerase in Eukaryotes hence, you can't produce protein and you die. lul
