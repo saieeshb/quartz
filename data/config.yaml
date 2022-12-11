@@ -14,9 +14,9 @@ enableGitHubEdit: true
 enableMermaid: true
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 search:
-  enableSemanticSearch: false
-  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
-  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+  enableSemanticSearch: true
+  operandApiKey: "clgqpe7smto8du48tjvfxo6qudzxb0r0axrd"
+  operandIndexId: "bb40k08hl2wm"
 description:
   My Notes. Can be anything.
 page_title:
