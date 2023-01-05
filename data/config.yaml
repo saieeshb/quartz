@@ -1,0 +1,36 @@
+name: Saieesh Bairam
+enableToc: true
+openToc: true
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enablePA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: false
+enableGitHubEdit: true
+enableMermaid: true
+GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+search:
+  enableSemanticSearch: true
+  operandApiKey: "clgqpe7smto8du48tjvfxo6qudzxb0r0axrd"
+  operandIndexId: "bb40k08hl2wm"
+description:
+  My Notes. Can be anything.
+page_title:
+  "🧠 Hippocampus"
+links:
+  - link_name: Twitter
+    link: https://twitter.com/saieeesh
+  - link_name: Github
+    link: https://github.com/saieeshb
+    
+favicon: |
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+
+

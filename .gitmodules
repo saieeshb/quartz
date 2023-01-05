@@ -1,0 +1,3 @@
+[submodule "content/Biochem"]
+	path = content/Biochem
+	url = https://github.com/saieeshb/obsidian-files
