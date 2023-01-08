@@ -14,8 +14,8 @@ Hey there! This is the setup guide to Setup the Osmania 2022 classes calendar on
 
 
 - Click on [this](https://calendar.google.com/calendar/embed?src=a6ed9d022edfaba0445c93cb1a7bdd6a29253115fe675cd2cf2781bf85fe1ae8%40group.calendar.google.com&ctz=Asia%2FKolkata) link. 
-- Click this small "+" icon at the bottom right corner of the page. ![[content/Images/Screenshot 2023-01-08 at 8.14.11 PM.png]]
-- Click "Add" on the pop-up.![[content/Images/httpscalendar.google.comcalendaru0rcid=a6ed9d022edfaba0445c93cb1a7bdd6a29253115fe675cd2cf2781bf85fe1ae8@group.calendar.g.png]]
+- Click this small "+" icon at the bottom right corner of the page. ![[Images/Screenshot 2023-01-08 at 8.14.11 PM.png]]
+- Click "Add" on the pop-up.![[Images/httpscalendar.google.comcalendaru0rcid=a6ed9d022edfaba0445c93cb1a7bdd6a29253115fe675cd2cf2781bf85fe1ae8@group.calendar.g.png]]
 - It should add the calendar to your account.
 - Now, head to your Google Calendar App on your device and go 
 - - -
