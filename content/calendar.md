@@ -5,6 +5,7 @@ Title: Calendar Setup
 Hey there! This is the setup guide to Setup the Osmania 2022 classes calendar on your device.
 
 # What is this?
+# YEs!
 - This is a calendar for seeing and checking up on what classes I have now because **I'm too lazy** to open the schedule for each individual subject which the CR posted on WhatsApp.
 - This calendar integrates all of the classes for the next present week for all subjects and merges it into a single calendar available at the ease of your phone.
 
