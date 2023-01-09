@@ -7,7 +7,7 @@ tags:
 ## Key
 - One carbon metabolism
 - One carbon pool
-- ![[image.jpg]]
+- ![[Images/image.jpg]]
 # Deficiency
 - Absence or insufficency of either ==b12== or Folic acid causes a MCV above normal and causes macrocytic or megaloblastic anaemia.
 - Often found in alcoholic a and pregnant women.
