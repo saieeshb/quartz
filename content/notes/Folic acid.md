@@ -1,6 +1,8 @@
 ---
-Title: Folic acid - class
-tags: Biochem, Class
+Title: Folic acid
+tags:
+- Biochem
+- Class
 ---
 ## Key
 - One carbon metabolism
