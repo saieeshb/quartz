@@ -4,4 +4,4 @@ tags:
 - Genetics
 - Biochem
 ---
-It is caused due to the removal of an intron during splicing of a gene.
+It is an Autosomal Dominant syndrome caused due to the removal of an exon during splicing of a gene.
